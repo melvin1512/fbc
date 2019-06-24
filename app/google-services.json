@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "303226742521",
+    "firebase_url": "https://tfbcamera1-d86f3.firebaseio.com",
+    "project_id": "tfbcamera1-d86f3",
+    "storage_bucket": "tfbcamera1-d86f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303226742521:android:ed510fbc242625ac",
+        "android_client_info": {
+          "package_name": "com.example.viewpagert2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303226742521-48v7ntkottnlkie487he7rpf1op76fuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viewpagert2",
+            "certificate_hash": "0dff0518be2819f2ecfad6e9f339c0ff261d7dcc"
+          }
+        },
+        {
+          "client_id": "303226742521-65v17co828sg14asonsaj2mqrh9o5fhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUeitnb-i4kFI2-3TdPy-t8I4gbQZ4R1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303226742521-65v17co828sg14asonsaj2mqrh9o5fhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
