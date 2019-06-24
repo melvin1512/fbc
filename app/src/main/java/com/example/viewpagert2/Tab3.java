@@ -62,7 +62,7 @@ public class Tab3 extends Fragment {
                     Toast.makeText(getActivity(),"Uploading",Toast.LENGTH_LONG).show();
                 }
                 else{
-                    Fileuploader();
+
                 }
                 Fileuploader();
             }
